@@ -4,11 +4,11 @@ I posted what I thought would use. Please refer to it when developing.
 
 | Name | Image | Link |
 |:----------:|:----------:|:-------------|
-| - | - | [GitHub](https://github.com/markusschlegel/DejaTextView) |
-| - | - | [GitHub](https://github.com/MoZhouqi/KMPlaceholderTextView) |
-| - | - | [GitHub](https://github.com/gmertk/ParkedTextField) |
-| - | - | [GitHub](https://github.com/svetlanama/ASAutoResizingTextView) |
-| - | - | [GitHub](https://github.com/PiXeL16/PasswordTextField) |
+| DejaTextView | ![sample](https://camo.githubusercontent.com/0758791609f150cee8813be0be4bf964158fa8dc/687474703a2f2f6d61726b75737363686c6567656c2e6769746875622e696f2f44656a6154657874566965772e676966) | [GitHub](https://github.com/markusschlegel/DejaTextView) |
+| KMPlaceholderTextView | ![sample](https://raw.githubusercontent.com/MoZhouqi/KMPlaceholderTextView/master/Screenshots/preview.gif) | [GitHub](https://github.com/MoZhouqi/KMPlaceholderTextView) |
+| ParkedTextField | ![sample](https://raw.githubusercontent.com/gmertk/ParkedTextField/master/Screenshots/ParkedTextField.gif) | [GitHub](https://github.com/gmertk/ParkedTextField) |
+| ASAutoResizingTextView | ![sample](image/ASAutoResizingTextView.gif) | [GitHub](https://github.com/svetlanama/ASAutoResizingTextView) |
+| PasswordTextField | ![sample](image/PasswordTextField.gif) | [GitHub](https://github.com/PiXeL16/PasswordTextField) |
 | - | - | [GitHub](https://github.com/CosmicMind/Material) |
 | - | - | [GitHub](https://github.com/Yalantis/PullToMakeFlight) |
 | - | - | [GitHub](https://github.com/gizmosachin/ColorSlider) |
