@@ -9,9 +9,9 @@ I posted what I thought would use. Please refer to it when developing.
 | ParkedTextField | ![sample](https://raw.githubusercontent.com/gmertk/ParkedTextField/master/Screenshots/ParkedTextField.gif) | [GitHub](https://github.com/gmertk/ParkedTextField) |
 | ASAutoResizingTextView | ![sample](image/ASAutoResizingTextView.gif) | [GitHub](https://github.com/svetlanama/ASAutoResizingTextView) |
 | PasswordTextField | ![sample](image/PasswordTextField.gif) | [GitHub](https://github.com/PiXeL16/PasswordTextField) |
-| - | - | [GitHub](https://github.com/CosmicMind/Material) |
-| - | - | [GitHub](https://github.com/Yalantis/PullToMakeFlight) |
-| - | - | [GitHub](https://github.com/gizmosachin/ColorSlider) |
+| Material | ![sample](https://camo.githubusercontent.com/61d40738a4ee517ddcb85baf8868c4156dc63fbc/687474703a2f2f7777772e636f736d69636d696e642e636f6d2f6d6f74696f6e2f636f736d69636d696e645f6d6f74696f6e5f73616d706c652e676966) | [GitHub](https://github.com/CosmicMind/Material) |
+| PullToMakeFlight | ![sample](https://raw.githubusercontent.com/Yalantis/PullToMakeFlight/master/PullToMakeFlightDemo/Resources/tours-pull-airplane.gif) | [GitHub](https://github.com/Yalantis/PullToMakeFlight) |
+| ColorSlider | ![sample](https://raw.githubusercontent.com/gizmosachin/ColorSlider/master/ColorSlider.gif) | [GitHub](https://github.com/gizmosachin/ColorSlider) |
 | - | - | [GitHub](https://github.com/Marxon13/M13Checkbox) |
 | - | - | [GitHub](https://github.com/ipraba/EPSignature) |
 | - | - | [GitHub](https://github.com/keithito/SimpleAnimation) |
