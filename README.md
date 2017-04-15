@@ -2,62 +2,61 @@
 *Akkey select library for iOS*  
 I posted what I thought would use. Please refer to it when developing.
 
-| Name | Image | Link |
-|:----------:|:----------:|:-------------|
-| DejaTextView | ![sample](https://camo.githubusercontent.com/0758791609f150cee8813be0be4bf964158fa8dc/687474703a2f2f6d61726b75737363686c6567656c2e6769746875622e696f2f44656a6154657874566965772e676966) | [GitHub](https://github.com/markusschlegel/DejaTextView) |
-| KMPlaceholderTextView | ![sample](https://raw.githubusercontent.com/MoZhouqi/KMPlaceholderTextView/master/Screenshots/preview.gif) | [GitHub](https://github.com/MoZhouqi/KMPlaceholderTextView) |
-| ParkedTextField | ![sample](https://raw.githubusercontent.com/gmertk/ParkedTextField/master/Screenshots/ParkedTextField.gif) | [GitHub](https://github.com/gmertk/ParkedTextField) |
-| ASAutoResizingTextView | ![sample](image/ASAutoResizingTextView.gif) | [GitHub](https://github.com/svetlanama/ASAutoResizingTextView) |
-| PasswordTextField | ![sample](image/PasswordTextField.gif) | [GitHub](https://github.com/PiXeL16/PasswordTextField) |
-| Material | ![sample](https://camo.githubusercontent.com/61d40738a4ee517ddcb85baf8868c4156dc63fbc/687474703a2f2f7777772e636f736d69636d696e642e636f6d2f6d6f74696f6e2f636f736d69636d696e645f6d6f74696f6e5f73616d706c652e676966) | [GitHub](https://github.com/CosmicMind/Material) |
-| PullToMakeFlight | ![sample](https://raw.githubusercontent.com/Yalantis/PullToMakeFlight/master/PullToMakeFlightDemo/Resources/tours-pull-airplane.gif) | [GitHub](https://github.com/Yalantis/PullToMakeFlight) |
-| ColorSlider | ![sample](https://raw.githubusercontent.com/gizmosachin/ColorSlider/master/ColorSlider.gif) | [GitHub](https://github.com/gizmosachin/ColorSlider) |
-| M13Checkbox | - | [GitHub](https://github.com/Marxon13/M13Checkbox) |
-| EPSignature | - | [GitHub](https://github.com/ipraba/EPSignature) |
-| SimpleAnimation | - | [GitHub](https://github.com/keithito/SimpleAnimation) |
-| Swift-CAAnimation-Closure | - | [GitHub](https://github.com/honghaoz/Swift-CAAnimation-Closure) |
-| DCAnimationKit | - | [GitHub](https://github.com/daltoniam/DCAnimationKit) |
-| GKAutoScrollingView | - | [GitHub](https://github.com/gkye/GKAutoScrollingView) |
-| FittableFontLabel | - | [GitHub](https://github.com/tbaranes/FittableFontLabel) |
-| CountdownLabel | - | [GitHub](https://github.com/suzuki-0000/CountdownLabel) |
-| SwiftUIDemo | - | [GitHub](https://github.com/PrashantMangukiya/SwiftUIDemo) |
-| SkyWay-iOS-Sample | - | [GitHub](https://github.com/nttcom/SkyWay-iOS-Sample) |
-| SkyWay-iOS-SDK | - | [GitHub](https://github.com/nttcom/SkyWay-iOS-SDK) |
-| webrtc-handson-native | - | [GitHub](https://github.com/skyway/webrtc-handson-native) |
-| PagingView | - | [GitHub](https://github.com/KyoheiG3/PagingView) |
-| FadeButton | - | [GitHub](https://github.com/inaka/FadeButton/tree/master) |
-| SpreadButton | - | [GitHub](https://github.com/liuzhiyi1992/SpreadButton) |
-| MMLoadingButton | - | [GitHub](https://github.com/MillmanY/MMLoadingButton) |
-| DOHamburgerButton | - | [GitHub](https://github.com/okmr-d/DOHamburgerButton) |
-| DOFavoriteButton | - | [GitHub](https://github.com/okmr-d/DOFavoriteButton) |
-| LiquidFloatingActionButton | - | [GitHub](https://github.com/yoavlt/LiquidFloatingActionButton) |
-| YBAlertController | - | [GitHub](https://github.com/yabuzaki/YBAlertController) |
-| SCLAlertView-Swift | - | [GitHub](https://github.com/vikmeup/SCLAlertView-Swift) |
-| LTWaveEmitterView | - | [GitHub](https://github.com/ltebean/LTWaveEmitterView) |
-| SAWaveToast | - | [GitHub](https://github.com/marty-suzuki/SAWaveToast) |
-| ZLSinusWaveView | - | [GitHub](https://github.com/zhxnlai/ZLSinusWaveView) |
-| SwiftSiriWaveformView | - | [GitHub](https://github.com/alankarmisra/SwiftSiriWaveformView) |
-| NVActivityIndicatorView | - | [GitHub](https://github.com/ninjaprox/NVActivityIndicatorView) |
-| BMPlayer | - | [GitHub](https://github.com/BrikerMan/BMPlayer) |
-| mobileplayer-ios | - | [GitHub](https://github.com/mobileplayer/mobileplayer-ios) |
-| ZLMusicFlowWaveView | - | [GitHub](https://github.com/zhxnlai/ZLMusicFlowWaveView) |
-| ESTMusicIndicator | - | [GitHub](https://github.com/Aufree/ESTMusicIndicator) |
-| STTwitter | - | [GitHub](https://github.com/nst/STTwitter) |
-| Screentendo | - | [GitHub](https://github.com/AaronRandall/Screentendo) |
-| awesome-ios-ui | - | [GitHub](https://github.com/cjwirth/awesome-ios-ui) |
-| SegmentChangeTable | - | [GitHub](https://github.com/KentarouKanno/SegmentChangeTable) |
-| UIImageColors | - | [GitHub](https://github.com/jathu/UIImageColors) |
-| ImageSlideshow | - | [GitHub](https://github.com/zvonicek/ImageSlideshow) |
-| ImagePicker | - | [GitHub](https://github.com/hyperoslo/ImagePicker) |
-| ImagePickerSheetController | - | [GitHub](https://github.com/lbrndnr/ImagePickerSheetController) |
-| ImageOpenTransition | - | [GitHub](https://github.com/mcmatan/ImageOpenTransition) |
-| SABlurImageView | - | [GitHub](https://github.com/marty-suzuki/SABlurImageView) |
-| AImage | - | [GitHub](https://github.com/wangjwchn/AImage) |
-| CMImageLoader | - | [GitHub](https://github.com/celian-m/CMImageLoader) |
-| WHRoundedImageView | - | [GitHub](https://github.com/ddhhz/WHRoundedImageView) |
-| ImageMaskTransition | - | [GitHub](https://github.com/LeoMobileDeveloper/ImageMaskTransition) |
-| JBImageViewTransition | - | [GitHub](https://github.com/jithinpala/JBImageViewTransition) |
-| JKHImageZoomTransition | - | [GitHub](https://github.com/jhong70/JKHImageZoomTransition) |
-| SFFullscreenImageDetailViewController | - | [GitHub](https://github.com/JanHalozan/SFFullscreenImageDetailViewController) |
-| SwiftyDropbox | - | [GitHub](https://github.com/dropbox/SwiftyDropbox) |
-| DynamicColor | - | [GitHub](https://github.com/yannickl/DynamicColor) |
+| Name | Tag | Explanation[日本語] | Link |
+|:----------:|:----------:|:-----------|:-------------|
+| DejaTextView | Text | 文字の選択・コピー・削除を補助します | [GitHub](https://github.com/markusschlegel/DejaTextView) |
+| KMPlaceholderTextView | Text | 文字未入力欄にサンプルを表示します | [GitHub](https://github.com/MoZhouqi/KMPlaceholderTextView) |
+| ParkedTextField | Text | 確定箇所意外を入力させる | [GitHub](https://github.com/gmertk/ParkedTextField) |
+| ASAutoResizingTextView | Text | 可変な文字入力フィールド | [GitHub](https://github.com/svetlanama/ASAutoResizingTextView) |
+| PasswordTextField | Text | パスワード入力を補助 | [GitHub](https://github.com/PiXeL16/PasswordTextField) |
+| Material | Design | マテリアルデザイン | [GitHub](https://github.com/CosmicMind/Material) |
+| PullToMakeFlight | Design | 下に引っ張って更新のアニメーション | [GitHub](https://github.com/Yalantis/PullToMakeFlight) |
+| ColorSlider | Design | カラーピッカー | [GitHub](https://github.com/gizmosachin/ColorSlider) |
+| M13Checkbox | Design | チェックボックス | [GitHub](https://github.com/Marxon13/M13Checkbox) |
+| EPSignature | Input | ペン入力 | [GitHub](https://github.com/ipraba/EPSignature) |
+| SimpleAnimation | Design | アニメーション | [GitHub](https://github.com/keithito/SimpleAnimation) |
+| Swift-CAAnimation-Closure | Design | 読み込み中アニメーション | [GitHub](https://github.com/honghaoz/Swift-CAAnimation-Closure) |
+| DCAnimationKit | Design | アニメーション | [GitHub](https://github.com/daltoniam/DCAnimationKit) |
+| GKAutoScrollingView | Design | 自動ページング | [GitHub](https://github.com/gkye/GKAutoScrollingView) |
+| FittableFontLabel | Text | 文字サイズの自動最適化 | [GitHub](https://github.com/tbaranes/FittableFontLabel) |
+| CountdownLabel | Design | カウントダウンアニメーション | [GitHub](https://github.com/suzuki-0000/CountdownLabel) |
+| SwiftUIDemo | Design | 基本的なUIの使い方 | [GitHub](https://github.com/PrashantMangukiya/SwiftUIDemo) |
+| SkyWay-iOS-Sample | Sample | SkyWayのサンプルアプリ | [GitHub](https://github.com/nttcom/SkyWay-iOS-Sample) |
+| SkyWay-iOS-SDK | SDK | SkyWayのSDK | [GitHub](https://github.com/nttcom/SkyWay-iOS-SDK) |
+| webrtc-handson-native | Sample | SkyWayの使い方 | [GitHub](https://github.com/skyway/webrtc-handson-native) |
+| PagingView | Design | ページング | [GitHub](https://github.com/KyoheiG3/PagingView) |
+| FadeButton | Design | ボタンプッシュ時のアニメーション | [GitHub](https://github.com/inaka/FadeButton/tree/master) |
+| SpreadButton | Design | 1つのボタンから複数のボタンを呼び出す | [GitHub](https://github.com/liuzhiyi1992/SpreadButton) |
+| MMLoadingButton | Design | ローディングアニメーションも行うボタン | [GitHub](https://github.com/MillmanY/MMLoadingButton) |
+| DOHamburgerButton | Design | 可変デザインのボタン | [GitHub](https://github.com/okmr-d/DOHamburgerButton) |
+| DOFavoriteButton | Design | SNSのLIKEのようにアクションするボタン | [GitHub](https://github.com/okmr-d/DOFavoriteButton) |
+| LiquidFloatingActionButton | Design | 1つのボタンから複数のボタンを呼び出す | [GitHub](https://github.com/yoavlt/LiquidFloatingActionButton) |
+| YBAlertController | Alert | アラート式メニュー | [GitHub](https://github.com/yabuzaki/YBAlertController) |
+| SCLAlertView-Swift | Alert | アラート | [GitHub](https://github.com/vikmeup/SCLAlertView-Swift) |
+| LTWaveEmitterView | Design | 風船が浮かんでいくアニメーション | [GitHub](https://github.com/ltebean/LTWaveEmitterView) |
+| SAWaveToast | Design | 波を模したトーストメニュー | [GitHub](https://github.com/marty-suzuki/SAWaveToast) |
+| ZLSinusWaveView | Design | 波形表示 | [GitHub](https://github.com/zhxnlai/ZLSinusWaveView) |
+| SwiftSiriWaveformView | Design | 波形表示  | [GitHub](https://github.com/alankarmisra/SwiftSiriWaveformView) |
+| NVActivityIndicatorView | Design | 読み込み中などのアニメーション | [GitHub](https://github.com/ninjaprox/NVActivityIndicatorView) |
+| BMPlayer | Player | 動画再生 | [GitHub](https://github.com/BrikerMan/BMPlayer) |
+| mobileplayer-ios |  Player | 動画再生  | [GitHub](https://github.com/mobileplayer/mobileplayer-ios) |
+| ZLMusicFlowWaveView | Design | 波形表示 | [GitHub](https://github.com/zhxnlai/ZLMusicFlowWaveView) |
+| ESTMusicIndicator | Design | 再生中アニメーション | [GitHub](https://github.com/Aufree/ESTMusicIndicator) |
+| STTwitter | SNS | Twitter関連 | [GitHub](https://github.com/nst/STTwitter) |
+| Screentendo | Mac | 画像解析を用いたMacアプリ | [GitHub](https://github.com/AaronRandall/Screentendo) |
+| awesome-ios-ui | Design | アニメーション系ライブラリ一覧 | [GitHub](https://github.com/cjwirth/awesome-ios-ui) |
+| SegmentChangeTable | Sample | 画面遷移係のサンプル | [GitHub](https://github.com/KentarouKanno/SegmentChangeTable) |
+| UIImageColors | Design | 画像からイメージカラーを算出 | [GitHub](https://github.com/jathu/UIImageColors) |
+| ImageSlideshow | Design | 画像のページング表示 | [GitHub](https://github.com/zvonicek/ImageSlideshow) |
+| ImagePicker | Camera | カメラ機能と編集機能 | [GitHub](https://github.com/hyperoslo/ImagePicker) |
+| ImagePickerSheetController | Picker | 画像選択 | [GitHub](https://github.com/lbrndnr/ImagePickerSheetController) |
+| ImageOpenTransition | Design | プロフィールへの画面遷移アニメーション | [GitHub](https://github.com/mcmatan/ImageOpenTransition) |
+| SABlurImageView | Design | ブラーアニメーション | [GitHub](https://github.com/marty-suzuki/SABlurImageView) |
+| AImage | Image | gif表示 | [GitHub](https://github.com/wangjwchn/AImage) |
+| WHRoundedImageView | Image | GUIで画像の詳細設定を行う | [GitHub](https://github.com/ddhhz/WHRoundedImageView) |
+| ImageMaskTransition | Design | 詳細画面への画面遷移アニメーション | [GitHub](https://github.com/LeoMobileDeveloper/ImageMaskTransition) |
+| JBImageViewTransition | Design | 画面遷移アニメーション | [GitHub](https://github.com/jithinpala/JBImageViewTransition) |
+| JKHImageZoomTransition | Design | 画面遷移アニメーション | [GitHub](https://github.com/jhong70/JKHImageZoomTransition) |
+| SFFullscreenImageDetailViewController | Image | 画像の拡大表示 | [GitHub](https://github.com/JanHalozan/SFFullscreenImageDetailViewController) |
+| SwiftyDropbox | Dropbox | Dropbox連携 | [GitHub](https://github.com/dropbox/SwiftyDropbox) |
+| DynamicColor | Color | 色の指定補助 | [GitHub](https://github.com/yannickl/DynamicColor) |
