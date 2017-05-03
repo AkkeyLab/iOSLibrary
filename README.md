@@ -60,3 +60,5 @@ I posted what I thought would use. Please refer to it when developing.
 | SFFullscreenImageDetailViewController | Image | 画像の拡大表示 | [GitHub](https://github.com/JanHalozan/SFFullscreenImageDetailViewController) |
 | SwiftyDropbox | Dropbox | Dropbox連携 | [GitHub](https://github.com/dropbox/SwiftyDropbox) |
 | DynamicColor | Color | 色の指定補助 | [GitHub](https://github.com/yannickl/DynamicColor) |
+| Periscope-VideoViewController | Player | 動画の再生開始箇所選択 | [GitHub](https://github.com/gontovnik/Periscope-VideoViewController) |
+| PPAssetsActionController | Picker | プレビューを含む画像選択 | [GitHub](https://github.com/pantuspavel/PPAssetsActionController) |
