@@ -62,3 +62,5 @@ I posted what I thought would use. Please refer to it when developing.
 | DynamicColor | Color | 色の指定補助 | [GitHub](https://github.com/yannickl/DynamicColor) |
 | Periscope-VideoViewController | Player | 動画の再生開始箇所選択 | [GitHub](https://github.com/gontovnik/Periscope-VideoViewController) |
 | PPAssetsActionController | Picker | プレビューを含む画像選択 | [GitHub](https://github.com/pantuspavel/PPAssetsActionController) |
+| ASPVideoPlayer | Player | 動画再生・スキップ・シークバー | [GitHub](https://github.com/andreipitis/ASPVideoPlayer) |
+| AutoScrollLabel | Text | 文字列のスクロール表示 | [GitHub](https://github.com/cbess/AutoScrollLabel) |
