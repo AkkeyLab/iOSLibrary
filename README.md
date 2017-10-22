@@ -64,3 +64,8 @@ I posted what I thought would use. Please refer to it when developing.
 | PPAssetsActionController | Picker | プレビューを含む画像選択 | [GitHub](https://github.com/pantuspavel/PPAssetsActionController) |
 | ASPVideoPlayer | Player | 動画再生・スキップ・シークバー | [GitHub](https://github.com/andreipitis/ASPVideoPlayer) |
 | AutoScrollLabel | Text | 文字列のスクロール表示 | [GitHub](https://github.com/cbess/AutoScrollLabel) |
+| RevealingSplashView | Design | Twitter風Splash screen | [GitHub](https://github.com/PiXeL16/RevealingSplashView) |
+| NavigationNotice | Notification | アプリ内通知（上部） | [GitHub](https://github.com/KyoheiG3/NavigationNotice) |
+| SAParallaxViewControllerSwift | Design | 画像メインのTableView表示 | [GitHub](https://github.com/marty-suzuki/SAParallaxViewControllerSwift) |
+| PageMenu | Design | 上部タブ切り替え | [GitHub](https://github.com/PageMenu/PageMenu) |
+| PagingMenuController | Design | 上部タブ切り替え | [GitHub](https://github.com/kitasuke/PagingMenuController) |
