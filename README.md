@@ -69,3 +69,9 @@ I posted what I thought would use. Please refer to it when developing.
 | SAParallaxViewControllerSwift | Design | 画像メインのTableView表示 | [GitHub](https://github.com/marty-suzuki/SAParallaxViewControllerSwift) |
 | PageMenu | Design | 上部タブ切り替え | [GitHub](https://github.com/PageMenu/PageMenu) |
 | PagingMenuController | Design | 上部タブ切り替え | [GitHub](https://github.com/kitasuke/PagingMenuController) |
+| TouchVisualizer | Design | タッチ箇所のアニメーション | [GitHub](https://github.com/morizotter/TouchVisualizer) |
+| GuttlerPageControl | Design | ページング時の現在地アニメーション | [GitHub](https://github.com/atuooo/PacmanPageControl) |
+| LTMorphingLabel | Design | 文字切り替えアニメーション | [GitHub](https://github.com/lexrus/LTMorphingLabel) |
+| SwiftyJSON | Tech | Json を利用する | [GitHub](https://github.com/SwiftyJSON/SwiftyJSON) |
+| FontWeather.swift | Design | 天気マーク | [GitHub](https://github.com/julianshen/FontWeather.swift) |
+| folding-cell | Design | リッチなセルによるコンテンツ表示 | [GitHub](https://github.com/Ramotion/folding-cell) |
